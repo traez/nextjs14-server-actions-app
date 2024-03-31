@@ -1,0 +1,4 @@
+in this my next.js server action app, i see that createProduct and deleteProduct functions take the place of post and delete api fetches.
+ i also see that theer is no get request. instead just products.map((product: Product) => ( if   await dbConnect() and   const products = (await ProductModel.find({}).sort({ are successful.
+
+ Why si this so?
